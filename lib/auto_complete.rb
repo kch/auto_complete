@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 module AutoComplete
 
   def self.included(base)
